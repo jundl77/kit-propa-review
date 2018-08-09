@@ -1,14 +1,15 @@
 {
-  "name": "review",
+  "name": "propa_review",
   "version": "1.0.0",
-  "description": "",
+  "description": "Review for the propa class at the KIT",
   "main": "index.js",
   "scripts": {
     "grip": "grip src/index.md",
     "start": "node build.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Julian Brendl",
+  "email" : "julianbrendl@gmail.com",
+  "license": "Apache 2.0",
   "dependencies": {
     "fs": "0.0.1-security",
     "markdown-pdf": "^8.0.0"
