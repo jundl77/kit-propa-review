@@ -9,7 +9,7 @@ The review includes:
 
 ### Building a PDF version
 
-To get a PDF version, clone the repo and run ```npm install``` and then ```npm start```.
+To get the latest PDF version, clone the repo and run ```npm install``` and then ```npm start```. Or download the existing PDF from [here](pdf/review.pdf).
 
 ### Contributing
 Feel free to make sugestions, changes or fixes if you see any!
